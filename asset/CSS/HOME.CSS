@@ -1,0 +1,97 @@
+body{
+    width: 100em;
+    border: solid;
+    display: flex;
+    justify-content: center;
+}
+#picture{
+    width: 6em;
+    height: 6em;
+    border-radius: 3em;
+    box-shadow: 0EM 0EM 1EM 0EM aliceblue;
+    cursor: zoom-in;
+}
+a{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+#style{
+    display: flex;
+    
+}
+#body{
+    background: #782221;
+    width: 1160px;
+    height: 80em;
+}
+.address{
+    background: #2c1d27;
+}
+address{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+.post{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+nav{
+    padding-top: 1em;
+}
+.discription{
+    text-indent: 2em;
+    text-align: justify;
+    width: 18em;
+    color: white;
+    padding-left: 1em;
+}
+h3{
+    color: black;
+    background-color: #dbc2a4;
+    width: 15em;
+    padding-left: 1em;
+}
+#leisure{
+    color: white;
+    padding-left: 2em;
+}
+#leisure-1{
+    color: white;
+    padding-left: 2em;
+}
+header nav div address p a:hover{
+    color: crimson;
+}
+section{
+    display: flex;
+    align-items: flex-start;
+    width: 1154px;
+    height: 54em;
+    border-right: solid;
+}
+.div-1{
+    width: 22em;
+
+}
+.div-2{
+    background-color: white;
+    width: 50em;
+    height: 54em;
+    padding-left: 1em;
+}
+h4{
+    background-color: #dbc2a4;
+    width: 30em;
+    padding-left: 4px;
+
+}
+
