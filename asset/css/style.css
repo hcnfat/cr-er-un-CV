@@ -5,7 +5,7 @@ main section div h4:hover{
 .liens{
     display: flex;
     justify-content: space-evenly;
-    padding-top: 2em;
+    padding-top: 1em;
     padding-left: 31em;
     width: 10EM;
 }
@@ -29,8 +29,9 @@ small{
     color: white;
     display: flex;
     justify-content: center;
-    padding-top: 1em;
+    
 }
+
 footer div a:hover{
     opacity: 0.4;
 

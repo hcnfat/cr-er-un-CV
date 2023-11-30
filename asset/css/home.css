@@ -23,7 +23,7 @@ a{
 #body{
     background: #782221;
     width: 1160px;
-    height: 80em;
+    height: 82em;
 }
 .address{
     background: #2c1d27;
@@ -75,7 +75,7 @@ section{
     display: flex;
     align-items: flex-start;
     width: 1154px;
-    height: 54em;
+    height: 58em;
     border-right: solid;
 }
 .div-1{
@@ -85,7 +85,7 @@ section{
 .div-2{
     background-color: white;
     width: 50em;
-    height: 54em;
+    height: 58em;
     padding-left: 1em;
 }
 h4{
