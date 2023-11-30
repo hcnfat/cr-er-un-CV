@@ -1,38 +1,8 @@
-main section div h4:hover{
-    border-left: 1em solid #782221 ;
+@import url('https://fonts.googleapis.com/css2? family= Lato:ital,wght@1,700 & display=swap');
 
+@font-face {
+    font-family: "raleway";
+    src: url('../font/Raleway-MediumItalic.woff');
+    src: url('../font/Raleway-MediumItalic.ttf') format('truetype'),
+    url('../font/Raleway-MediumItalic.otf.otf') format('opentype');
 }
-.liens{
-    display: flex;
-    justify-content: space-evenly;
-    padding-top: 1em;
-    padding-left: 31em;
-    width: 10EM;
-}
-#compte-1{
-    width: 2em;
-    height: 2em;
-
-}
-#compte-2{
-    width: 2em;
-    height: 2em;
-
-}
-#compte-3{
-    width: 2em;
-    height: 2em;
-
-}
-
-small{
-    color: white;
-    display: flex;
-    justify-content: center;
-    
-}
-
-footer div a:hover{
-    opacity: 0.4;
-
-} 

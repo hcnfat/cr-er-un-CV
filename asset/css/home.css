@@ -33,16 +33,19 @@ address{
     justify-content: space-between;
     padding-left: 2em;
     padding-right: 2em;
+    font-family: "lato", sans-serif;
 }
 .post{
     display: flex;
     justify-content: center;
     color: white;
+    font-family: "lato", sans-serif;
 }
 h2{
     display: flex;
     justify-content: center;
     color: white;
+    font-family: "lato", sans-serif;
 }
 nav{
     padding-top: 1em;
@@ -53,12 +56,14 @@ nav{
     width: 18em;
     color: white;
     padding-left: 1em;
+    font-family: "raleway", sans-serif;
 }
 h3{
     color: black;
     background-color: #dbc2a4;
     width: 15em;
     padding-left: 1em;
+    font-family: "lato", sans-serif;
 }
 #leisure{
     color: white;
@@ -92,6 +97,55 @@ h4{
     background-color: #dbc2a4;
     width: 30em;
     padding-left: 4px;
+    font-family: "lato", sans-serif;
 
 }
 
+main section div h4:hover{
+    border-left: 1em solid #782221 ;
+
+}
+
+.liens{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 1em;
+    padding-left: 31em;
+    width: 10EM;
+}
+
+#compte-1{
+    width: 2em;
+    height: 2em;
+
+}
+
+#compte-2{
+    width: 2em;
+    height: 2em;
+
+}
+
+#compte-3{
+    width: 2em;
+    height: 2em;
+
+}
+
+small{
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+
+footer div a:hover{
+    opacity: 0.4;
+
+} 
+ul {
+    font-family: "raleway", sans-serif;
+}
+p {
+    font-family: "lato", sans-serif;
+}
