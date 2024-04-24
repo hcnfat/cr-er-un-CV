@@ -4,7 +4,7 @@ body{
     display: flex;
     justify-content: center;
 }
-#picture{
+.picture{
     width: 6em;
     height: 6em;
     border-radius: 3em;
@@ -17,11 +17,11 @@ a{
     color: white;
     text-decoration-line: none;
 }
-#style{
+.style{
     display: flex;
     
 }
-#body{
+.container{
     background: #782221;
     width: 1160px;
     height: 82em;
@@ -67,11 +67,11 @@ h3{
     padding-left: 1em;
     font-family: "lato", sans-serif;
 }
-#leisure{
+.leisure{
     color: white;
     padding-left: 2em;
 }
-#leisure-1{
+.leisure-1{
     color: white;
     padding-left: 2em;
 }
@@ -115,25 +115,23 @@ main section div h4:hover{
     padding-left: 31em;
     width: 10EM;
 }
-
-#compte-1{
+.compte-1{
     width: 2em;
     height: 2em;
 
 }
 
-#compte-2{
+.compte-2{
     width: 2em;
     height: 2em;
 
 }
 
-#compte-3{
+.compte-3{
     width: 2em;
     height: 2em;
 
 }
-
 small{
     color: white;
     display: flex;
