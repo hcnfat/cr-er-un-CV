@@ -37,13 +37,13 @@ address{
     font-family: "lato", sans-serif;
 
 }
-.post{
+h2{
     display: flex;
     justify-content: center;
     color: white;
     font-family: "lato", sans-serif;
 }
-h2{
+h1{
     display: flex;
     justify-content: center;
     color: white;
